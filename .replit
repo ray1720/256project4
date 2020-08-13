@@ -1,0 +1,1 @@
+run = "javac Project4.java && java Project4"
